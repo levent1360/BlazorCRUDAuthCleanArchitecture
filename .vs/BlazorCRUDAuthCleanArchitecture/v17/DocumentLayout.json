@@ -3,19 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59992A7B-B004-440D-893E-0FD9171FF844}|WebUI\\WebUI.csproj|c:\\users\\levent\\source\\repos\\blazorcrudauthcleanarchitecture\\webui\\webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{59992A7B-B004-440D-893E-0FD9171FF844}|WebUI\\WebUI.csproj|solutionrelative:webui\\webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{019385B3-0918-45E7-9A48-53DBFD660EF2}|API\\API.csproj|c:\\users\\levent\\source\\repos\\blazorcrudauthcleanarchitecture\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019385B3-0918-45E7-9A48-53DBFD660EF2}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{761E0D18-F037-449C-8760-DC9A284255E2}|Infrastructure\\Infrastructure.csproj|c:\\users\\levent\\source\\repos\\blazorcrudauthcleanarchitecture\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761E0D18-F037-449C-8760-DC9A284255E2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{761E0D18-F037-449C-8760-DC9A284255E2}|Infrastructure\\Infrastructure.csproj|c:\\users\\levent\\source\\repos\\blazorcrudauthcleanarchitecture\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{761E0D18-F037-449C-8760-DC9A284255E2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{48AF6F2B-6C1F-4D35-A006-C1262EDD568C}|Application\\Application.csproj|c:\\users\\levent\\source\\repos\\blazorcrudauthcleanarchitecture\\application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48AF6F2B-6C1F-4D35-A006-C1262EDD568C}|Application\\Application.csproj|solutionrelative:application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6258AD4-9379-4DEE-A026-68B96469A791}|Domain\\Domain.csproj|c:\\users\\levent\\source\\repos\\blazorcrudauthcleanarchitecture\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B6258AD4-9379-4DEE-A026-68B96469A791}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{48AF6F2B-6C1F-4D35-A006-C1262EDD568C}|Application\\Application.csproj|c:\\users\\levent\\source\\repos\\blazorcrudauthcleanarchitecture\\application\\dtos\\request\\account\\changeuserrolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AF6F2B-6C1F-4D35-A006-C1262EDD568C}|Application\\Application.csproj|solutionrelative:application\\dtos\\request\\account\\changeuserrolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AF6F2B-6C1F-4D35-A006-C1262EDD568C}|Application\\Application.csproj|c:\\users\\levent\\source\\repos\\blazorcrudauthcleanarchitecture\\application\\dtos\\request\\account\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AF6F2B-6C1F-4D35-A006-C1262EDD568C}|Application\\Application.csproj|solutionrelative:application\\dtos\\request\\account\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AF6F2B-6C1F-4D35-A006-C1262EDD568C}|Application\\Application.csproj|c:\\users\\levent\\source\\repos\\blazorcrudauthcleanarchitecture\\application\\dtos\\request\\account\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AF6F2B-6C1F-4D35-A006-C1262EDD568C}|Application\\Application.csproj|solutionrelative:application\\dtos\\request\\account\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AF6F2B-6C1F-4D35-A006-C1262EDD568C}|Application\\Application.csproj|c:\\users\\levent\\source\\repos\\blazorcrudauthcleanarchitecture\\application\\dtos\\request\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AF6F2B-6C1F-4D35-A006-C1262EDD568C}|Application\\Application.csproj|solutionrelative:application\\dtos\\request\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,64 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 196,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WebUI",
-              "DocumentMoniker": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\WebUI\\WebUI.csproj",
-              "RelativeDocumentMoniker": "WebUI\\WebUI.csproj",
-              "ToolTip": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\WebUI\\WebUI.csproj",
-              "RelativeToolTip": "WebUI\\WebUI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-04T10:43:02.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Microsoft.PackageDependencyResolution.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "ViewState": "AQIAAPMAAAAAAAAAAAAiwAkBAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-05-04T10:42:43.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Infrastructure",
-              "DocumentMoniker": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-04T10:41:26.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Domain",
-              "DocumentMoniker": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Domain\\Domain.csproj",
-              "RelativeToolTip": "Domain\\Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-04T10:36:17.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -93,15 +50,110 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:06:44.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Application\\appsettings.json",
+              "RelativeDocumentMoniker": "Application\\appsettings.json",
+              "ToolTip": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Application\\appsettings.json",
+              "RelativeToolTip": "Application\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T12:48:23.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeUserRoleRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Application\\Dtos\\Request\\Account\\ChangeUserRoleRequestDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Request\\Account\\ChangeUserRoleRequestDto.cs",
+              "ToolTip": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Application\\Dtos\\Request\\Account\\ChangeUserRoleRequestDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Request\\Account\\ChangeUserRoleRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:46:29.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Application\\Dtos\\Request\\Account\\CreateRoleDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Request\\Account\\CreateRoleDto.cs",
+              "ToolTip": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Application\\Dtos\\Request\\Account\\CreateRoleDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Request\\Account\\CreateRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:45:48.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateAccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Application\\Dtos\\Request\\Account\\CreateAccountDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Request\\Account\\CreateAccountDto.cs",
+              "ToolTip": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Application\\Dtos\\Request\\Account\\CreateAccountDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Request\\Account\\CreateAccountDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:44:49.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Application\\Dtos\\Request\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Request\\Account\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Application\\Dtos\\Request\\Account\\LoginDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Request\\Account\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:44:35.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Levent\\source\\repos\\BlazorCRUDAuthCleanArchitecture\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:41:33.526Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -133,10 +185,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
@@ -162,6 +210,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             }
           ]
         }
